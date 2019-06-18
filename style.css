@@ -1,0 +1,10 @@
+.menu {
+  font-family: "rubik", sans-serif
+}
+.menu {
+  text-decoration: none;
+  color: black
+}
+.menu > a:visited {
+ color: aqua
+}
