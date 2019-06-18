@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div class="menu">
+      <a href="index.html">Inicio</a>
+      <a href="index0.html">Minhas disciplinas</a>
+      <a href="index1.html">Bandas favoritas</a>
+      <a href="index2.html">Lanches favoritos</a>
+      <a href="index3.html">Hobbies</a>
+    </div>
+    <h1>Minhas disciplinas</h1>
+  </body>
+</html>
