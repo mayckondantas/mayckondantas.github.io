@@ -1,10 +1,23 @@
 .menu {
-  font-family: "rubik", sans-serif
+  font-family: 'Indie Flower', cursive;
+  font-size: 18px;
+  width: 700px;
+  margin: auto;
 }
 .menu {
   text-decoration: none;
-  color: black
+  color: black;
+  margin-right: 20px;
 }
 .menu > a:visited {
  color: aqua
+}
+.menu >:hover {
+  color: brown;
+}
+h1 {
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  border-bottom: 2px dotted black;
+  padding-bottom: 5px;
 }
