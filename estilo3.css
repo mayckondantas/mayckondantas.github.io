@@ -1,0 +1,49 @@
+
+ div#interface{
+   width: 900px;
+   /*background-color: gray;*/
+   margin: 10px auto 0px auto;
+   /*box-shadow: 0px 0px 10px rgba(0,0,0,.5); */ 
+   padding: 10px 10px 10px;
+  }
+ 
+body{
+  background-image: url(shattered-island3.png);
+}
+div#texto{
+  font-family: 'Swanky and Moo Moo', cursive;
+}
+div.rigth{
+  padding-right: -30px;
+  width: -900px;
+  float:right;
+  background-color:white;
+  margin: 10px auto 0px auto;
+  box-shadow: 0px 0px 10px rgba(0,0,0,.5);  
+  padding: 10px 10px 10px;
+
+}
+label {display: block;}
+input, button {padding: 10px;	
+}
+input {width: 50%;}
+#busca{
+  position: absolute;
+	right: 40%;
+  top: 50%;
+ /* padding-right: 600px;
+  padding-left: 60px;*/
+}
+.footer{
+  background-color: blue;
+}
+/*div#imange{
+  background-image: url(the-rising.jpg);
+  max-width: -100;
+  background-position: 50% 5%;
+  background-repeat: repeat-x;
+  background-position:center top;
+}
+div.Test-video{
+  background-image: url(Violet-Evergarden.jpg)
+}*/
